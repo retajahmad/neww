@@ -31,18 +31,23 @@ padding: 5px;
 
 
 h2{
-    margin-left: 50px;
+   
     padding-top: 20px;
+    text-align: center;
     
 }
 
 img{
-    margin-left: 50px;
+    
     border: 2px solid purple;
     height: 300px;
     width: 300px;
     margin-top: 25px;
     box-shadow: 2px 2px 10px purple;
+}
+.pic {
+    text-align: center;
+
 }
 
 p{
